@@ -54,3 +54,7 @@ This repository contains an excerpt of academic assignment shared solely for pro
 ## Acknowledgments
 
 I'd like to acknowledge the UCI Machine Learning Repository for providing the Wisconsin Breast Cancer dataset, which has been instrumental in this project.
+
+## Datasets Citation
+
+Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993). Breast Cancer Wisconsin (Diagnostic) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B.
